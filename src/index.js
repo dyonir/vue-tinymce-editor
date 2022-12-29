@@ -1,4 +1,4 @@
-import tinymce from './components/TinymceVue'
+import tinymce from './components/TinymceVue.vue'
 
 export default tinymce
 export { tinymce }
